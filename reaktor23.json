@@ -93,6 +93,12 @@
          "id":12,
          "name":"fr\u00e4se",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/raw.githubusercontent.com\/reaktor23\/workadventure-map\/master\/fraese\/fraese.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":15,
@@ -1801,15 +1807,6 @@
          "tilecount":6,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"collapse",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
                 {
                  "id":1,
                  "properties":[
