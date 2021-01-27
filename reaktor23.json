@@ -1790,8 +1790,73 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":3,
          "firstgid":4954,
-         "source":"fraese\/fraese.tsx"
+         "image":"fraese\/fraese.png",
+         "imageheight":64,
+         "imagewidth":96,
+         "margin":0,
+         "name":"fraese",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"collapse",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
