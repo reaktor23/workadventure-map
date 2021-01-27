@@ -97,7 +97,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/reaktor23\/workadventure-map\/master\/fraese\/fraese.mp3"
+                 "value":"master\/fraese\/fraese.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
