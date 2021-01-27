@@ -95,9 +95,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"master\/fraese\/fraese.mp3"
+                 "name":"collide",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
