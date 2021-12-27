@@ -2,7 +2,7 @@
 
 ## Testrun
 
-Testrun using rc3.world test server: https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/reaktor23/workadventure-map/master/reaktor23.json
+Testrun using rc3.world test server: https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/reaktor23/workadventure-map/master/main.json
 
 ## Tools you will need
 
