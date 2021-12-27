@@ -1,5 +1,9 @@
 # WorkAdventure Map of Reaktor 23
 
+## Testrun
+
+Testrun using rc3.world test server: https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/reaktor23/workadventure-map/master/reaktor23.json
+
 ## Tools you will need
 
 In order to build your own map for WorkAdventure, you need:
