@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":21,
  "infinite":false,
  "layers":[
@@ -132,7 +125,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1808,10 +1801,19 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":1,
                  "properties":[
                         {
-                         "name":"collapse",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1820,7 +1822,7 @@
                  "id":2,
                  "properties":[
                         {
-                         "name":"collapse",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1829,7 +1831,7 @@
                  "id":3,
                  "properties":[
                         {
-                         "name":"collapse",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1838,7 +1840,7 @@
                  "id":4,
                  "properties":[
                         {
-                         "name":"collapse",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1847,7 +1849,7 @@
                  "id":5,
                  "properties":[
                         {
-                         "name":"collapse",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1857,6 +1859,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":15
 }
