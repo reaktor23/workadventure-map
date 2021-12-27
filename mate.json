@@ -25,8 +25,26 @@
          "width":8,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 316, 0, 0, 0, 0, 0, 0, 0, 316, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":5,
+         "name":"storageExit",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"storage.json#mateEntry"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":5,
+ "nextlayerid":6,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
