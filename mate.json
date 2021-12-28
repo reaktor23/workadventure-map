@@ -15,6 +15,30 @@
          "y":0
         }, 
         {
+         "data":[249, 249, 249, 249, 249, 249, 249, 249, 249, 0, 0, 0, 0, 0, 0, 249, 249, 0, 0, 0, 0, 0, 0, 249, 249, 0, 0, 0, 0, 0, 0, 249, 0, 0, 0, 0, 0, 0, 0, 249, 0, 0, 0, 0, 0, 0, 0, 249, 249, 0, 0, 0, 0, 0, 0, 249, 249, 249, 249, 249, 249, 249, 249, 249],
+         "height":8,
+         "id":6,
+         "name":"walls",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 1835, 1835, 1835, 1835, 1835, 1835, 0, 0, 1835, 1835, 1835, 1835, 1835, 1835, 0, 0, 0, 0, 0, 0, 1835, 1835, 0, 0, 0, 0, 0, 0, 1835, 1835, 0, 0, 0, 0, 0, 0, 1835, 1835, 0, 0, 0, 0, 0, 0, 1835, 1835, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":7,
+         "name":"mate",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 316, 0, 0, 0, 0, 0, 0, 0, 316, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":4,
@@ -43,8 +67,20 @@
          "width":8,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 0, 0, 0, 0, 1993, 1993, 1993, 0, 0, 0, 0, 0, 1993, 1993, 1993, 0, 0, 0, 0, 0, 1993, 1993, 1993, 1993, 0, 0, 0, 0, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993, 1993],
+         "height":8,
+         "id":8,
+         "name":"collide",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":false,
+         "width":8,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -63,6 +99,15 @@
          "tilecount":1064,
          "tileheight":34,
          "tiles":[
+                {
+                 "id":248,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":312,
                  "properties":[
@@ -112,6 +157,42 @@
          "tilecount":256,
          "tileheight":34,
          "tilewidth":34
+        }, 
+        {
+         "columns":16,
+         "firstgid":1833,
+         "image":"rc3-mullana-objects.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-objects",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":1961,
+         "image":"RPG-Maker-VX-RTP-Tileset.png",
+         "imageheight":2016,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"RPG-Maker-VX-RTP-Tileset",
+         "spacing":0,
+         "tilecount":2016,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":32,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
