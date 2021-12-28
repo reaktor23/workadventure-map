@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"reaktor23.json#storageEntry"
+                 "value":"main.json#storageEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
