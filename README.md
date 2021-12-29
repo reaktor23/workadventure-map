@@ -52,3 +52,7 @@ When your changes are ready, you need to "commit" and "push" the changes back to
 Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
 
 TODO: describe how to push
+
+## Infos, Tutorials, etc.
+
+ - https://codimd.c3d2.de/WA-Zone-Einstieg-06#
